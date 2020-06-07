@@ -1,0 +1,11 @@
+D:\c#\C#26.05.20\learning\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+D:\c#\C#26.05.20\learning\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+D:\c#\C#26.05.20\learning\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+D:\c#\C#26.05.20\learning\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+D:\c#\C#26.05.20\learning\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+D:\c#\C#26.05.20\learning\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+D:\c#\C#26.05.20\learning\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+D:\c#\C#26.05.20\learning\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+D:\c#\C#26.05.20\learning\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+D:\c#\C#26.05.20\learning\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+D:\c#\C#26.05.20\learning\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
